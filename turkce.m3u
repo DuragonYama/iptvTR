@@ -12,3 +12,44 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/512px-TRT_Belgesel_logo_%282019-%29.svg.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="ATV.tr@SD" tvg-logo="https://i.imgur.com/HyVUwFC.png",ATV
+http://89.187.191.41/ATV-HD-TR/video.m3u8
+
+#EXTINF:-1 tvg-id="ATVAvrupa.tr@SD" tvg-logo="https://i.postimg.cc/Ghdyjjy8/atvavrupa.png",ATV Avrupa
+https://streamer2.nexgen.bz/ATV/index.m3u8
+
+#EXTINF:-1 tvg-id="BeyazTV.tr@SD" tvg-logo="https://i.imgur.com/uykIdML.png",Beyaz TV
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+
+#EXTINF:-1 tvg-id="DiyanetTV.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Diyanet_TV_logo.svg/512px-Diyanet_TV_logo.svg.png",Diyanet TV
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuroD.tr@SD" tvg-logo="https://i.imgur.com/x9kHsXo.png",Euro D
+https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
+
+#EXTINF:-1 tvg-id="EuroStar.tr@SD" tvg-logo="https://i.postimg.cc/W3tVGzGf/eurostar.png",EuroStar TV
+https://canlitvulusal.xyz/live/eurostar/index.m3u8
+
+#EXTINF:-1 tvg-id="HaberGlobal.tr@SD" tvg-logo="https://i.postimg.cc/fbQQPsGB/haberglobal.png",Haber Global
+https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
+
+#EXTINF:-1 tvg-id="HaberturkTV.tr@SD" tvg-logo="https://i.imgur.com/6Tw3rUp.png",Habertürk TV
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+
+#EXTINF:-1 tvg-id="HalkTV.tr@SD" tvg-logo="https://i.imgur.com/xM0HA30.png",Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7.tr@SD" tvg-logo="https://i.imgur.com/0gq9xOm.png",Kanal 7
+https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
+
+#EXTINF:-1 tvg-id="Kanal7Avrupa.tr@SD" tvg-logo="https://i.imgur.com/wlfyj5l.png",Kanal 7 Avrupa
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.tr@SD" tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D
+https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+
+#EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png",Kanal D Drama
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic
+https://saran-live.ercdn.net/natgeohd/index.m3u8
