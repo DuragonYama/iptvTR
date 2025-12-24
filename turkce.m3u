@@ -3,6 +3,18 @@
 #EXTINF:-1 tvg-id="TRT1.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/512px-TRT_1_logo_%282021-%29.svg.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-id="TRTHaber.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png",TRT Turk
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-dash/trtturk.mpd
+
+#EXTINF:-1 tvg-id="TRTTurk.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/512px-TRT_T%C3%BCrk_logo.svg.png",TRT Turk
+https://viamotionhsi.netplus.ch/live/eds/trtturk/browser-HLS8/trtturk.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png",TRT World HD
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TRTCocuk.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/512px-TRT_%C3%87ocuk_logo_%282021%29.svg.png",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
@@ -36,9 +48,6 @@ https://haberglobaldvr.blutv.com/blutv_haberglobal_dvr/live.m3u8
 #EXTINF:-1 tvg-id="HaberturkTV.tr@SD" tvg-logo="https://i.imgur.com/6Tw3rUp.png",Habertürk TV
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 
-#EXTINF:-1 tvg-id="HalkTV.tr@SD" tvg-logo="https://i.imgur.com/xM0HA30.png",Halk TV
-https://halktv.blutv.com/blutv_halktv_live/live.m3u8
-
 #EXTINF:-1 tvg-id="Kanal7.tr@SD" tvg-logo="https://i.imgur.com/0gq9xOm.png",Kanal 7
 https://kanal7.blutv.com/blutv_kanal7_live/live.m3u8
 
@@ -51,5 +60,32 @@ https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
 #EXTINF:-1 tvg-id="KanalDDrama.tr@SD" tvg-logo="https://i.imgur.com/WIeZMKT.png",Kanal D Drama
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TRTMuzik.tr@SD" tvg-logo="https://i.imgur.com/JgUzRH8.png",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-1 tvg-id="NationalGeographic.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",National Geographic [TURKIYE VPN GEREKLI]
 https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:-1 tvg-id="ShowTV.tr@SD" tvg-logo="https://i.imgur.com/1l7SCCu.png",Show TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+
+#EXTINF:-1 tvg-id="StarTV.tr@SD" tvg-logo="https://i.imgur.com/9O3DHRB.png",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:-1 tvg-id="TarihTV.tr@SD" tvg-logo="https://i.imgur.com/HbIGZUt.png",Tarih TV
+https://tv1.arectv30.sbs/live/tarihtv.m3u8
+
+#EXTINF:-1 tvg-id="Tele1.tr@SD" tvg-logo="https://i.postimg.cc/ZY7bcVmn/tele1.png",Tele 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+
+#EXTINF:-1 tvg-id="TGRTHaber.tr@SD" tvg-logo="https://i.imgur.com/PrxwKDw.png",TGRT Haber (720p)
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-1 tvg-id="TV8.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/thumb/6/68/Tv8_Yeni_Logo.png/300px-Tv8_Yeni_Logo.png",TV 8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3
+
+#EXTINF:-1 tvg-id="UlkeTV.tr@SD" tvg-logo="https://i.imgur.com/wdWR7Qk.png",Ülke TV
+https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
+
+#EXTINF:-1 tvg-id="UlusalKanal.tr@SD" tvg-logo="https://i.imgur.com/EwSg612.png",Ulusal Kanal
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
